@@ -7,3 +7,8 @@ C:\Users\CryptoCyborg\Dropbox\Employment Offer\Graphic Map\Graphic Map\obj\Relea
 C:\Users\CryptoCyborg\Dropbox\Employment Offer\Graphic Map\Graphic Map\obj\Release\Graphic Map.pdb
 C:\Users\CryptoCyborg\Dropbox\Simple-GIS-app-2009-\Graphic Map\obj\Release\Graphic Map.exe
 C:\Users\CryptoCyborg\Dropbox\Simple-GIS-app-2009-\Graphic Map\obj\Release\Graphic Map.pdb
+C:\Users\CryptoCyborg\Dropbox\Simple-GIS-app-2009-\Graphic Map\bin\Release\Graphic Map.exe
+C:\Users\CryptoCyborg\Dropbox\Simple-GIS-app-2009-\Graphic Map\bin\Release\Graphic Map.pdb
+C:\Users\CryptoCyborg\Dropbox\Simple-GIS-app-2009-\Graphic Map\obj\Release\Graphic_Map.Main_Form.resources
+C:\Users\CryptoCyborg\Dropbox\Simple-GIS-app-2009-\Graphic Map\obj\Release\Graphic_Map.Properties.Resources.resources
+C:\Users\CryptoCyborg\Dropbox\Simple-GIS-app-2009-\Graphic Map\obj\Release\Graphic Map.csproj.GenerateResource.Cache

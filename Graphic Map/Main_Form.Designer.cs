@@ -286,7 +286,6 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.InactiveCaptionText;
             this.ClientSize = new System.Drawing.Size(953, 408);
-            this.ControlBox = false;
             this.Controls.Add(this.ChangeMap_b);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.panel3);
